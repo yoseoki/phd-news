@@ -1,7 +1,5 @@
 # PhD Graduation Requirements — Summary
 
-Here's what you need to do to successfully complete the Doctoral Program in Computer Science (University of Tsukuba, Information Science program):
-
 ## Credit Requirements (10 credits total)
 
 **Mandatory courses — 8 credits:**
@@ -9,14 +7,14 @@ Here's what you need to do to successfully complete the Doctoral Program in Comp
 - **Seminar in Computer Science A** (`情報理⼯後期特別演習A`, 2 credits) — submit progress reports to your supervisor
 
 **Elective courses — at least 2 credits:**
-- **Cross-Disciplinary Seminar in Computer Science** (2 credits) — <ins>default choice</ins>.  
+- **Cross-Disciplinary Seminar in Computer Science** (`情報理⼯分野横断後期特別演習`, 2 credits) — <ins>default choice</ins>.  
 You attend the CS Research Seminar and give a ~10-minute English presentation on your research, with discussion in English.
-- *Alternative:* **Seminar in Computer Science B** (2 credits) — <ins>only if you can't attend the CS Research Seminar</ins>
+- *Alternative:* **Seminar in Computer Science B** (`情報理⼯後期特別演習 B`, 2 credits) — <ins>only if you can't attend the CS Research Seminar</ins>
 
 ## Other Graduation Requirements
 
-1. **Submit your doctoral dissertation** and pass the final examination.
-2. **Demonstrate required competencies** (assessed via the achievement evaluation):
+1. **Submit your <ins>doctoral dissertation</ins>** and pass the final examination.
+2. **Demonstrate required <ins>competencies</ins>** (assessed via the achievement evaluation):
    - General: knowledge creation, management, communication, leadership, international mindset
    - Specialized: research ability, knowledge, ethics
 
@@ -27,10 +25,9 @@ You attend the CS Research Seminar and give a ~10-minute English presentation on
 - Questions: d-curri@cs.tsukuba.ac.jp
 
 ## The Minimum Checklist
-1. ✅ Research in Computer Science (6 credits)
-2. ✅ Seminar in Computer Science A (2 credits)
-3. ✅ Cross-Disciplinary Seminar + attend CS Research Seminar (2 credits)
-4. ✅ Submit dissertation and pass final exam
-5. ✅ Meet the competency requirements
-
-That's the core path to graduation. The English writing/presentation courses mentioned later in the document are optional resources to help improve your skills, not requirements.
+1. `情報理⼯後期特別研究` (6 credits)
+2. `情報理⼯後期特別演習A` (2 credits)
+3. `情報理⼯分野横断後期特別演習` (2 credits)
+4. Dissertation
+5. pass final exam
+6. Meet the competency requirements

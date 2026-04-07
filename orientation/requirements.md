@@ -1,4 +1,4 @@
-# PhD Graduation Requirements — Summary
+# PhD Graduation Requirements
 
 ## Credit Requirements (10 credits total)
 

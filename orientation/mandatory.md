@@ -9,8 +9,8 @@ Here's what you need to do to successfully complete the Doctoral Program in Comp
 - **Seminar in Computer Science A** (`情報理⼯後期特別演習A`, 2 credits) — submit progress reports to your supervisor
 
 **Elective courses — at least 2 credits:**
-- **Cross-Disciplinary Seminar in Computer Science** (2 credits) — this is the default choice. You attend the CS Research Seminar and give a ~10-minute English presentation on your research, with discussion in English.
-- *Alternative:* **Seminar in Computer Science B** (2 credits) — only if you can't attend the CS Research Seminar, and only with your supervisor's permission.
+- **Cross-Disciplinary Seminar in Computer Science** (2 credits) — default choice. You attend the CS Research Seminar and give a ~10-minute English presentation on your research, with discussion in English.
+- *Alternative:* **Seminar in Computer Science B** (2 credits) — <u>only if you can't attend the CS Research Seminar<\u>
 
 ## Other Graduation Requirements
 

@@ -5,8 +5,8 @@ Here's what you need to do to successfully complete the Doctoral Program in Comp
 ## Credit Requirements (10 credits total)
 
 **Mandatory courses — 8 credits:**
-- **Research in Computer Science** (6 credits) — work with your supervisor on your dissertation, seminars, etc.
-- **Seminar in Computer Science A** (2 credits) — submit progress reports to your supervisor
+- **Research in Computer Science** (`情報理⼯後期特別研究`, 6 credits) — work with your supervisor on your dissertation, seminars, etc.
+- **Seminar in Computer Science A** (`情報理⼯後期特別演習A`, 2 credits) — submit progress reports to your supervisor
 
 **Elective courses — at least 2 credits:**
 - **Cross-Disciplinary Seminar in Computer Science** (2 credits) — this is the default choice. You attend the CS Research Seminar and give a ~10-minute English presentation on your research, with discussion in English.

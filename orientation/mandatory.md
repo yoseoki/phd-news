@@ -10,7 +10,7 @@ Here's what you need to do to successfully complete the Doctoral Program in Comp
 
 **Elective courses — at least 2 credits:**
 - **Cross-Disciplinary Seminar in Computer Science** (2 credits) — default choice. You attend the CS Research Seminar and give a ~10-minute English presentation on your research, with discussion in English.
-- *Alternative:* **Seminar in Computer Science B** (2 credits) — <u>only if you can't attend the CS Research Seminar<\u>
+- *Alternative:* **Seminar in Computer Science B** (2 credits) — <ins>only if you can't attend the CS Research Seminar<\ins>
 
 ## Other Graduation Requirements
 
